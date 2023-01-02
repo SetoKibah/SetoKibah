@@ -1,4 +1,4 @@
-# :wave: Hello, I'm SetoKibah, but most people call me Bradley!
+# :wave: Hello, I'm Bradley!
 
 - :books: I'm a self-taught programmer, started in December of 2020. I have a huge interest in automation in its various forms. 
    - Most recently, I've been experimenting with algorithmic trading and working with API's, as well as developing my own machine learning projects and data science components.
