@@ -1,4 +1,4 @@
-Bradley [Your Last Name, if you're comfortable adding it]
+Bradley
 
 🔍 About Me
 I am a programmer with a passion for automation and data science, initiating my journey into the world of code in December 2020. My expertise ranges from algorithmic trading and API integration to machine learning and data science projects. Everyday, I'm driven to enhance efficiency, whether it's automating tasks or deriving insights from data.
